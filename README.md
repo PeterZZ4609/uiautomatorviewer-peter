@@ -5,8 +5,6 @@ UIautomatorvViewer
 1. 目前社区或能查到修改版本和开放源码的版本的基本都是基于4.4之前的版本，目前Android已经9.x了。
 2. 编写一个易于大家修改构建的版本，目前只需按照下面说明，直接可以从官网选择自己喜欢的版本构建。
 
-![adb](./images/adb.png)
-
 ##### 使用方式：
 方式1.直接下载根目录下的uiautomatorviewer.jar,替换你本地的${ANDROID_HOME}/tools/lib下的uiautomatorviewer.jar即可
 
